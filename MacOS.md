@@ -1,3 +1,9 @@
+<!--
+ * @Date: 2022-12-22 18:18:31
+ * @Author: Yuanmeng-Shi yuanmengshi05@gmail.com
+ * @FilePath: /GitHub/ezLife4DEUKeyboard/MacOS.md
+ * @Description: file content
+-->
 # Basic Information
 + MacBook Pro 14-inch, 2021
 + DEU Keyboard
@@ -17,4 +23,6 @@ $\checkmark$ Of course I also have to write in Chinese and German $\hearts$
 |"or"|$\lvert$|<kbd>option</kbd> + <kbd>7</kbd> |
 
 
+# Useful Shortcuts
 
+<kbd>command</kbd> + <kbd>shift</kbd> + <kbd>.</kbd> $\implies$ Show hidden files
